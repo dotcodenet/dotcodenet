@@ -1,6 +1,6 @@
 [![header](https://github.com/dotcodenet/dotcodenet/blob/main/assets/header.png)](https://www.youtube.com/@dotcodenet)
 
-About me
+## I am a beginner youtuber and frontend developer.
 
 Languages and Tools
 
