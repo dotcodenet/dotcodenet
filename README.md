@@ -11,6 +11,9 @@ Languages and Tools
 ![Html](https://img.shields.io/badge/-Html-210d29?style=for-the-badge&logo=icon)
 ![Tailwindcss](https://img.shields.io/badge/-Tailwindcss-210d29?style=for-the-badge&logo=tailwindcss)
 ![Figma](https://img.shields.io/badge/-Figma-210d29?style=for-the-badge&logo=figma)
-![Other](https://img.shields.io/badge/-...-c6b4ce?style=for-the-badge&logo=none)
 
-Follow me
+### Follow me
+
+![YouTube](https://img.shields.io/badge/-YouTube-210d29?style=for-the-badge&logo=youtube&logoColor=red)
+![Telegram](https://img.shields.io/badge/-Telegram-210d29?style=for-the-badge&logo=telegram)
+![DOTCODE](https://img.shields.io/badge/-DOTCODE_(channel)-210d29?style=for-the-badge&logo=telegram)
