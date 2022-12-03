@@ -16,4 +16,3 @@
 
 ![YouTube](https://img.shields.io/badge/-YouTube-210d29?style=for-the-badge&logo=youtube&logoColor=red)
 ![Telegram](https://img.shields.io/badge/-Telegram-210d29?style=for-the-badge&logo=telegram)
-![DOTCODE](https://img.shields.io/badge/-DOTCODE_(channel)-210d29?style=for-the-badge&logo=telegram)
