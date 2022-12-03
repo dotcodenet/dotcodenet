@@ -2,6 +2,13 @@
 
 # I'm a beginner Youtuber and frontend developer.
 
+> My name is Mirzodavlat, I am 17 years old,<br>
+> I live in the country of Uzbekistan,<br>
+> the city of Namangan, and I am a web developer,<br>
+> mainly front-end, I sometimes do web design<br>
+> in the Figma program and make website designs<br>
+> and some banners for my sites
+
 ### Languages and Tools
 
 ![Javascript](https://img.shields.io/badge/-JavaScript-210d29?style=for-the-badge&logo=javascript)
