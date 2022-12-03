@@ -14,5 +14,5 @@
 
 ### Follow me
 
-![YouTube](https://img.shields.io/badge/-YouTube-210d29?style=for-the-badge&logo=youtube&logoColor=red)
-![Telegram](https://img.shields.io/badge/-Telegram-210d29?style=for-the-badge&logo=telegram)
+[![YouTube](https://img.shields.io/badge/-YouTube-210d29?style=for-the-badge&logo=youtube&logoColor=red)](https://www.youtube.com/@dotcodenet)
+[![Telegram](https://img.shields.io/badge/-Telegram-210d29?style=for-the-badge&logo=telegram)](https://t.me/dotcodenet)
