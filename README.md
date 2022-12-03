@@ -1,8 +1,8 @@
 [![header](https://github.com/dotcodenet/dotcodenet/blob/main/assets/header.png)](https://www.youtube.com/@dotcodenet)
 
-## I am a beginner Youtuber and frontend developer.
+# I'm a beginner Youtuber and frontend developer.
 
-Languages and Tools
+### Languages and Tools
 
 ![Javascript](https://img.shields.io/badge/-JavaScript-210d29?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-210d29?style=for-the-badge&logo=typescript)
